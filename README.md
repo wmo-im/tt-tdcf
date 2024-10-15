@@ -36,4 +36,4 @@ https://github.com/wmo-im/tt-tdcf/wiki/Meetings
 ## GitHub
 - Teams
   - tag all of [TT-TDCF](https://github.com/orgs/wmo-im/teams/tt-tdcf) in a GitHub issue: **@wmo-im/tt-tdcf**
-- [Team members and their GitHub handles](#Membership)
+- See [Team members and their GitHub handles](#Membership) above
