@@ -11,7 +11,7 @@ The TT-TDCF under [ET-Data](https://community.wmo.int/en/governance/commission-m
 |---|---|---|
 |Marijana CREPULJA (Chair)|ECMWF|[@marijanacrepulja](https://github.com/marijanacrepulja)
 |Jeff ATOR |USA|[@jbathegit](https://github.com/jbathegit)
-|Jakub BEER|HMEI/IBL|[@TBA](https://github.com/TBA)
+|Jakub BEER|HMEI/IBL|[@Jakub-Beer](https://github.com/Jakub-Beer)
 |Sandrine EDOUARD |Canada|[@edouardsandrine](https://github.com/edouardsandrine)
 |Simon	ELLIOTT	(ex-member)|EUMETSAT|[@SimonElliottEUM](https://github.com/SimonElliottEUM)
 |Sergio	FERREIRA |Brazil|[@sergioh-pessoal](https://github.com/sergioh-pessoal)
@@ -19,7 +19,7 @@ The TT-TDCF under [ET-Data](https://community.wmo.int/en/governance/commission-m
 |Abderrazak	LEMKHENTER |Morocco|[@lemkhenter](https://github.com/lemkhenter)
 |Antoine MERLE |EUMETSAT|[@antoinemerle](https://github.com/antoinemerle)
 |Sébastien VILLAUME (Observing member)| ECMWF|[@sebvi](https://github.com/sebvi)
-|Da	XU|China|[@TBA](https://github.com/TBA)
+|Da	XU|China|[@DaXu-NMIC](https://github.com/DaXu-NMIC)
 |Anna MILAN|WMO Secretariat|[@amilan17](https://github.com/orgs/amilan17)
 
 ## Meetings
